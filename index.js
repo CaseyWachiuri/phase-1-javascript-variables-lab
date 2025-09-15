@@ -1,1 +1,4 @@
-// Code your solution in this file!
+// JS Variables
+const companyName = "Scuber";
+let mostProfitableNeighborhood = "Chelsea";
+let companyCeo = "Susan Smith";
